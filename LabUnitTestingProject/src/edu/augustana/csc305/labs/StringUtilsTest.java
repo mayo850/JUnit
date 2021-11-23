@@ -36,7 +36,7 @@ public class StringUtilsTest {
 		assertEquals("", StringUtils.caesarCipher("", -7));
 		assertEquals("", StringUtils.caesarCipher("", 0));
 		assertEquals(" ", StringUtils.caesarCipher(" ", 20));
-		// ADD your own assert tests here, to find any remaining bugs in this code
+		//ADD your own assert tests here, to find any remaining bugs in this code
 
 	}
 
