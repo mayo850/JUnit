@@ -52,6 +52,7 @@ public class Hannaldous {
 		System.out.println(Help("bigmoose$"));
 		System.out.println(Help("emusareawesome"));
 		System.out.println(Help("17"));
+		System.out.println("google");
 
 		String[] passwords = new String[] { "bigmoose$", "emusareawesome", "123goodbye", "ok&y", "17", "cat" };
 		System.out.println(howbad(8,passwords, 0.0));
